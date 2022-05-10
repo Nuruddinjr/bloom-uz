@@ -1,3 +1,3 @@
-const backendUrl = 'https://reddish-reddit.herokuapp.com';
+const backendUrl = 'https://ap-bloom.herokuapp.com/';
 
 export default backendUrl;
